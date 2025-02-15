@@ -1,0 +1,31 @@
+<mxfile host="drawio-plugin" modified="2025-02-15T05:53:32.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CI7ysH8Ckds9tsNdE6Ci" version="22.1.22" type="embed">
+  <diagram id="7zxFcQtX0T-7SwJniDVr" name="Page-1">
+    <mxGraphModel dx="-1040" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2296" y="160" width="10" height="450" as="geometry" />
+        </mxCell>
+        <object label="" width="100" id="4">
+          <mxCell style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;wallThickness=10;labelPadding=0;" vertex="1" parent="1">
+            <mxGeometry x="2296" y="590" width="909" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;1 Foot = 18pt&lt;/font&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="7">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+            <mxGeometry x="2996" y="80" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="" width="100" id="9">
+          <mxCell style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;wallThickness=10;labelPadding=0;" vertex="1" parent="1">
+            <mxGeometry x="2296" y="140" width="909" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3195" y="160" width="10" height="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
